@@ -15,7 +15,7 @@
  </div>
 
 # Conhecimentos
-<div align="center">
+<div align="stretch">
 <img src="https://img.shields.io/badge/Java-914F1E?style=for-the-badge&logo=java" style="border-radius: 30px" target="_blank" >
  <img src="https://img.shields.io/badge/Kotlin-694F8E?style=for-the-badge&logo=Kotlin&logoColor=white" style="border-radius: 30px" target="_blank">
 </div>
